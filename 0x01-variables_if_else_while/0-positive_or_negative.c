@@ -2,7 +2,7 @@
 #include <time.h>
 /* more headers goes there */
 #include <stdio.h>
-/* betty style doc for function main goes there */
+
 /**
 * main - Determines if a numberis positive, negative or zero.
 *
